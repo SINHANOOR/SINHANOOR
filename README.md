@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Next JS**
 
-- 📫 How to reach me **mdsinhanoor@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
+<h3 align="left">Connect with me:mdsinhanoor@gmail.com</h3>
 <p align="left">
 </p>
 
